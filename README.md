@@ -28,7 +28,7 @@ backend/
 * `routes/` → API endpoints (including `/analyze`)
 * `schemas/` → Pydantic models (request/response validation)
 * `services/` → AI inference logic (transformer + rules)
-* `taskdog/` → Core backend logic module
+* `taskdog/` → Virtual environment
 
 ---
 
